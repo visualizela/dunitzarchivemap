@@ -28,8 +28,8 @@ twitter_username:
 github_username:  
 
 # --MAP SETTINGS--
-mapsettings:
-  map-tileset: 'https://api.mapbox.com/styles/v1/andy-rutkowski/ck1cn5zk704ey1cpdnfntne7t/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q'
+mapsettings: 
+  map-tileset: 'https://api.mapbox.com/styles/v1/andy-rutkowski/ckg0b68e60mu419lffcn0jpgh/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q'
   map-credits: '<a target="_blank" href="https://visualizela.github.io/dunitzarchivemap/">Dunitz Archive Mapped</a> | Tiles: Mapbox'
   minZoom: 0
   maxZoom: 20
