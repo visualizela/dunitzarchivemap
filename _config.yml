@@ -26,7 +26,6 @@ base_font: >
 # --SOCIAL--
 twitter_username: 
 github_username:  
-mapbox://styles/
 
 # --MAP SETTINGS--
 mapsettings:
