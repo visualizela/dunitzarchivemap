@@ -14,6 +14,7 @@ desc: "World Wall A Vision of the Future Without Fear"
 Judy Baca in her studio with a panel of the World Wall.
    {:.caption}  
 [View the 11-21-91 article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj22/)
+
 [View the related 4/5/91 article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj31/)
 
 Inspired by the Great Wall of Los Angeles, Judy Baca went on to start the World Wall which was a larger scale project to bring muralists from around the world together. 
@@ -60,6 +61,7 @@ The mural then went on to be displayed at the Smithsonian.
 ![Smithsonian Announcement](images/WorldWall6.png)
    {:.image}
 The announcement of the World Wall at the Smithonian.
+
 [View the image and article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj23/)
 
 #### Works Cited
