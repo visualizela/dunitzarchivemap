@@ -4,8 +4,8 @@ title: "Quetzalcoatl"
 timelinedate: 1999-09-07
 categories: ["Mural"]
 author: "Beza Denget"
-lat: 34.1793077
-lng: -118.4147042
+lat: 34.1409409
+lng: -118.1501682
 desc: "Chang Jack. Mural restores vision of ancient god. Pasadena Star News 7 Sep. 1996."
 ---
 ![Current Image](images/Quetzalcoatl.png)
