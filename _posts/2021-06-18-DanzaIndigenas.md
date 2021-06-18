@@ -2,7 +2,7 @@
 layout: post
 title: "Danza Indígenas, 1993"
 timelinedate: 1993-08-10
-categories:
+categories: ["Mural"]
 author: "Enrique Martinez III"
 lat: 34.086969
 lng: -117.956672
