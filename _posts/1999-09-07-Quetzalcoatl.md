@@ -28,5 +28,6 @@ The Dunitz Archive includes an image of an article printed by Pasadena Star News
 [View the image in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj58/)
 
 ##Works Cited
+{:.bibliography}
 1.Chang Jack. "Mural restores vision of ancient god." Pasadena Star News 7 Sep. 1996
 2.Codex Telleriano-Remensis, 16th cent.
