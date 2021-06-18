@@ -65,12 +65,18 @@ The announcement of the World Wall at the Smithonian.
  {:.caption} 
 [View the image and article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj23/)
 
+![Baca with 'Triumph of the Hearts'](images/WorldWall6.png)
+   {:.image}
+Baca with 'Triumph of the Hearts'
+ {:.caption} 
+[View the image and article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj18/)
+
 #### Works Cited
 {:.bibliography}
 1. [SPARC: The World Wall](https://sparcinla.org/programs/world-wall/)
 2. Snow Shauna. Chicana Wields a Mighty Brush to Place Los Angeles Murals on Global Display. Los Angeles Times 21 Nov. 1991.
 3. Snow Shauna. Celebrating Judith Baca's Vision for the 'World'. Los Angeles Times 5 April. 1991.
-
+4. Gurza Agustin. The Globe is Her Canvas. Los Angeles Times 19 Aug. 2001.
  
 
 
