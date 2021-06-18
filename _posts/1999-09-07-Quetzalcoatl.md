@@ -25,6 +25,7 @@ Quetzalcoatl depicted in the Codex Telleriano-Remensis, an ancient Aztec manuscr
 The mural is located in Pasadena, California.
 
 The Dunitz Archive includes an image of an article printed by Pasadena Star News in 1996 about the mural.
+
 [View the image in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj58/)
 
 #### Works cited
