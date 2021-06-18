@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quetzalcoatl"
-date: 1999-09-07
+timelinedate: 1999-09-07
 categories: ["Mural"]
 author: "Beza Denget"
 lat: 34.1793077
