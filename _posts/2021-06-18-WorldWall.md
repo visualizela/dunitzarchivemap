@@ -40,6 +40,7 @@ The mural also features a collaborative Israeli-Palestinian panel which features
    {:.image}
 Baca working with Zakheim and Kuvaleshaya on the panels.
    {:.caption}  
+   
 [View the image in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj18/)
 
 
