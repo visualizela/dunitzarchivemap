@@ -27,6 +27,7 @@ This mural is located at Silver Lake, Los Angeles, CA.
 [View the image in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj59/)
 
 #### Works Cited
+
 {:.bibliography}
-1.Fung John. Community Artworks.Los Angeles Times.
-2.Ho, Christopher."CSUN Professor Paints her Way Through Male-Dominated Art Industry". The Sundial. (7 November 2011). 
+1. Fung John. Community Artworks.Los Angeles Times.
+2. Ho, Christopher."CSUN Professor Paints her Way Through Male-Dominated Art Industry". The Sundial. (7 November 2011). 
