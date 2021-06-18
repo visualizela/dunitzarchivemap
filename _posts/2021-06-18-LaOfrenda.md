@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Ofrenda, 1989"
+title: "La Ofrenda"
 timelinedate: 1989-01-01
 categories: ["Mural"]
 author: "Beza Denget"
