@@ -36,6 +36,13 @@ Original layout of the World Wall.
 
 The mural also features a collaborative Israeli-Palestinian panel which features work from Ahmed Bweerat, Suliman Monsour and Adi Yekutiel.The World Wall has traveled to the USSR, Mexico, and most recently,Canada. 
 
+![World Wall Work](images/WorldWall8.png)
+   {:.image}
+Baca working with Zakheim and Kuvaleshaya on the panels.
+   {:.caption}  
+[View the image in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj18/)
+
+
 ![World Wall Invitation](images/WorldWall.png)
    {:.image}
 Invitation to the debut of the World Wall.
@@ -65,7 +72,7 @@ The announcement of the World Wall at the Smithonian.
  {:.caption} 
 [View the image and article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj23/)
 
-![Baca with 'Triumph of the Hearts'](images/WorldWall6.png)
+![Baca with 'Triumph of the Hearts'](images/WorldWall7.png)
    {:.image}
 Baca with 'Triumph of the Hearts'
  {:.caption} 
