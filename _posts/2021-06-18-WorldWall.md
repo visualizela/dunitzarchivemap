@@ -63,7 +63,7 @@ The announcement of the World Wall at the Smithonian.
 
 #### Works Cited
 {:.bibliography}
-1. [SPARC: The World Wall] (https://sparcinla.org/programs/world-wall/)
+1. [SPARC: The World Wall](https://sparcinla.org/programs/world-wall/)
 
 
 
