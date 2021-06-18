@@ -13,7 +13,8 @@ desc: "World Wall A Vision of the Future Without Fear"
    {:.image}
 Judy Baca in her studio with a panel of the World Wall.
    {:.caption}  
-[View the image and article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj31/)
+[View the 11-21-91 article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj22/)
+[View the related 4/5/91 article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj31/)
 
 Inspired by the Great Wall of Los Angeles, Judy Baca went on to start the World Wall which was a larger scale project to bring muralists from around the world together. 
 
@@ -64,6 +65,10 @@ The announcement of the World Wall at the Smithonian.
 #### Works Cited
 {:.bibliography}
 1. [SPARC: The World Wall](https://sparcinla.org/programs/world-wall/)
+2. Snow Shauna. Chicana Wields a Mighty Brush to Place Los Angeles Murals on Global Display. Los Angeles Times 21 Nov. 1991.
+3. Snow Shauna. Celebrating Judith Baca's Vision for the 'World'. Los Angeles Times 5 April. 1991.
+
+ 
 
 
 
