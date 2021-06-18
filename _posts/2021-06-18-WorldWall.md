@@ -8,7 +8,6 @@ lat: 34.0672182
 lng: -118.2070824
 desc: "World Wall A Vision of the Future Without Fear"
 ---
-Inspired by the Great Wall of Los Angeles, Judy Baca went on to start the World Wall which was a larger scale project to bring muralists from around the world together. 
 
 ![Baca with World Wall](images/WorldWall1.png)
    {:.image}
@@ -16,6 +15,7 @@ Judy Baca in her studio with a panel of the World Wall.
    {:.caption}  
 [View the image and article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj31/)
 
+Inspired by the Great Wall of Los Angeles, Judy Baca went on to start the World Wall which was a larger scale project to bring muralists from around the world together. 
 
 ![Description of the World Wall.](images/WorldWall5.png)
    {:.image}
