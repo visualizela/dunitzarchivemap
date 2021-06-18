@@ -62,7 +62,7 @@ The mural then went on to be displayed at the Smithsonian.
 ![Smithsonian Announcement](images/WorldWall6.png)
    {:.image}
 The announcement of the World Wall at the Smithonian.
-
+ {:.caption} 
 [View the image and article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj23/)
 
 #### Works Cited
