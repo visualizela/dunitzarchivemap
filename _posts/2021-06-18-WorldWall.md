@@ -4,8 +4,8 @@ title: "World Wall"
 timelinedate: 1991-04-06
 categories: ["Mural"]
 author: "Beza Denget"
-lat: 34.0672182
-lng: -118.2070824
+lat: 34.066642
+lng: -118.200230
 desc: "World Wall A Vision of the Future Without Fear"
 ---
 
