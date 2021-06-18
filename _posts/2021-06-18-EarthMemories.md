@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Earth Memories, 1996"
+title: "Earth Memories"
 timelinedate: 1996-04-06
 categories: ["Mural"]
 author: "Enrique Martinez III"
