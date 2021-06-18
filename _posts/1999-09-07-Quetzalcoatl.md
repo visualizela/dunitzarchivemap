@@ -31,6 +31,6 @@ The Dunitz Archive includes an image of an article printed by Pasadena Star News
 #### Works cited
 
 {:.bibliography}
-1.Chang Jack. "Mural restores vision of ancient god." Pasadena Star News 7 Sep. 1996
-2.Codex Telleriano-Remensis, 16th cent.
-3.[Murals Chicano Park](http://www.chicanoparksandiego.com/murals/quetzal.html)
+1. Chang Jack. "Mural restores vision of ancient god." Pasadena Star News 7 Sep. 1996
+2. Codex Telleriano-Remensis, 16th cent.
+3. [Murals Chicano Park](http://www.chicanoparksandiego.com/murals/quetzal.html)
