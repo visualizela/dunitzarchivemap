@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Danza Indígenas, 1993"
+title: "Danza Indígenas"
 timelinedate: 1993-08-10
 categories: ["Monument"]
 author: "Enrique Martinez III"
