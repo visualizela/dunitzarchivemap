@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Love is for Everyone, 1991"
+title: "Love is for Everyone"
 timelinedate: 1992-01-04
 categories: ["Mural"]
 author: "Enrique Martinez III"
