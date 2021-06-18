@@ -2,18 +2,20 @@
 layout: post
 title: "World Wall"
 timelinedate: 1991-04-06
-categories: ["World Wall"]
+categories: ["Mural"]
 author: "Beza Denget"
 lat: 34.0672182
 lng: -118.2070824
-desc: "Mural"
+desc: "World Wall A Vision of the Future Without Fear"
 ---
 Inspired by the Great Wall of Los Angeles, Judy Baca went on to start the World Wall which was a larger scale project to bring muralists from around the world together. 
+
 ![Baca with World Wall](images/WorldWall1.png)
    {:.image}
 Judy Baca in her studio with a panel of the World Wall.
    {:.caption}  
 [View the image and article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj31/)
+
 
 ![Description of the World Wall.](images/WorldWall5.png)
    {:.image}
@@ -46,7 +48,7 @@ World Wall at Lincoln Park, Los Angeles.
 
 The mural also had Cecilia Ocelli de Salinas, the First Lady of Mexico, in attendance at the debut.
 
-![First Lady of Mexico announcement](images/WorldWall1.png)
+![First Lady of Mexico announcement](images/WorldWall3.png)
    {:.image}
 SPARC announcement of the First Lady of Mexico's attendance.
    {:.caption}  
