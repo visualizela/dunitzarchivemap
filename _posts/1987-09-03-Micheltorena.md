@@ -19,12 +19,13 @@ This mural was led by artist, Yreina Cervantez and painted by a coalition of com
    {:.image}
 Caithy Gallegos and Yreina Cervantez beside the mural.
    {:.caption}  
+[View the image in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj59/)
 
 Yreina has included community members and at-risk in other murals like the restoration of Quetzalcoatl and furthered this mission by being a part of the LA art collective Self Help Graphics for six years.
 
 This mural is located at Silver Lake, Los Angeles, CA.
 
-[View the image in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj59/)
+
 
 #### Works Cited
 
