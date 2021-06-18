@@ -53,7 +53,7 @@ Coverage of the Zoot Suit Riots and Jewish Refugees of the Second World War.
 
 Below is a video intervewing Eva Cockcroft and Matt Wuerker about their work to the mural. 
 <figure class="video_container">
-  <iframe src="images/GreatWall.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/13BmkrxlRRECgGCvYn8tQdNL9g2vUuTr7/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 [For more videos and interviews on the creation of The Great Wall of Los Angeles](https://gwdvd.sparcinla.org/)
