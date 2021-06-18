@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Micheltorena School"
-timelinedate: 2021-06-18
+timelinedate: 1987-09-03
 categories: ["Mural"]
 author: "Beza Denget"
 lat: 34.0887231
