@@ -17,7 +17,7 @@ This mural is by by artist Yreina Cervantez. The mural was was previously painte
 
 Quetzalcoatl is a mythical hero, considered the god of civilization that many Meso-Americans claim to be decsended from. Quetzalcoatl is a popular subject in murals across southern California, another Quetzalcóatl mural painted by Toltecas en Aztlán & El Congreso de Artistas is situated in Chicano Park.
 
-![Quetzalcoatl in Codex Telleriano-Remensis](images/Quetzalcoatlimg.png)
+![Quetzalcoatl in Codex Telleriano-Remensis](images/QuetzalcoatlImg.png)
    {:.image}
 Quetzalcoatl depicted in the Codex Telleriano-Remensis, an ancient Aztec manuscript.
    {:.caption}  
