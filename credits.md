@@ -13,7 +13,7 @@ order: 3
 * _Map Marker_ icon created by Berkay Sargin from the Noun Project
 * _north_ by Lluisa Iborra from the Noun Project
 
-#### Enrique Martinez III:
+Enrique Martinez III:
 
 Enrique Martinez III is a junior at the University of Southern California majoring in Literary Editing & Publishing and Narrative Studies and minoring in Web Technologies & Applications. 
 
