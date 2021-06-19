@@ -10,9 +10,8 @@ desc: "Ferrell David. Hidden Portrait of a City. Los Angeles Times 21 Feb. 2002.
 ---
 ![Newspaper](images/GreatWall5.png)
    {:.image}
-Article on The Great Wall.
+[View the article in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj21/)
    {:.caption}  
-[View the image in the Dunitz Archive](https://visualizela.github.io/dunitzarchive/dunitzproject/obj21/)
 
 The Great Wall of Los Angeles is a historic timeline of the residents and cultures that inhabit California. It was SPARC's first public art project. Work on the mural started in 1974 and ended in 1983. SPARC announced in Feburary 2021 that it will continue work on the mural to extend the half mile mural it to one mile.
 
