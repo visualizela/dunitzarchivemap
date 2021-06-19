@@ -12,3 +12,9 @@ order: 3
 #### Icons
 * _Map Marker_ icon created by Berkay Sargin from the Noun Project
 * _north_ by Lluisa Iborra from the Noun Project
+
+Enrique Martinez III:
+
+Enrique Martinez III is a junior at the University of Southern California majoring in Literary Editing & Publishing and Narrative Studies and minoring in Web Technologies & Applications. 
+
+Enrique is interested in librarianship and, after graduation, would like to pursue his MLIS to become a librarian and learn how he can best help people get access to the resources they need. Additionally, he is interested in the health humanities and narrative medicine and would like to explore how these fields intersect with librarianship.
