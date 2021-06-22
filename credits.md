@@ -18,3 +18,5 @@ Enrique Martinez III:
 Enrique Martinez III is a junior at the University of Southern California majoring in Literary Editing & Publishing and Narrative Studies and minoring in Web Technologies & Applications. 
 
 Enrique is interested in librarianship and, after graduation, would like to pursue his MLIS to become a librarian and learn how he can best help people get access to the resources they need. Additionally, he is interested in the health humanities and narrative medicine and would like to explore how these fields intersect with librarianship.
+
+Beza Denget is a student at the University of Southern California studying Applied and Computational Mathematics. Beza is interested in data visualization and its application for social causes. Prior to working on this project, Beza was a part of the COVID Prison Project. 
