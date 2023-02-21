@@ -2,7 +2,7 @@
 layout: post
 title: "Great Wall of Los Angeles"
 timelinedate: 1974-01-01
-categories: ["Mural"]
+categories: "Mural"
 author: "Beza Denget"
 lat: 34.1792358
 lng: -118.4142897
