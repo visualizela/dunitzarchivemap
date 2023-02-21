@@ -2,7 +2,7 @@
 layout: post
 title: "La Ofrenda"
 timelinedate: 1989-01-01
-categories: ["Mural"]
+categories: "Mural"
 author: "Beza Denget"
 lat: 34.0613533
 lng: -118.2587384
