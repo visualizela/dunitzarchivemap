@@ -2,7 +2,7 @@
 layout: post
 title: "Earth Memories"
 timelinedate: 1996-04-06
-categories: ["Mural"]
+categories: "Mural"
 author: "Enrique Martinez III"
 lat: 34.062417
 lng: -118.261004
