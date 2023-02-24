@@ -2,7 +2,7 @@
 layout: post
 title: "Quetzalcoatl"
 timelinedate: 1999-09-07
-categories: ["Mural"]
+categories: "Mural"
 author: "Beza Denget"
 lat: 34.1409409
 lng: -118.1501682
