@@ -2,7 +2,7 @@
 layout: post
 title: "Love is for Everyone"
 timelinedate: 1992-01-04
-categories: ["Mural"]
+categories: "Mural"
 author: "Enrique Martinez III"
 lat: 34.0258268
 lng: -118.3567432
