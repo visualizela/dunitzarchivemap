@@ -2,7 +2,7 @@
 layout: post
 title: "World Wall"
 timelinedate: 1991-04-06
-categories: ["Mural"]
+categories: "Mural"
 author: "Beza Denget"
 lat: 34.066642
 lng: -118.200230
