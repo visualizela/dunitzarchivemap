@@ -6,7 +6,7 @@ email: arutkows@usc.edu
 description:
 baseurl: "/dunitzarchivemap" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_repo: https://visualizela.github.io/dunitzarchivemap/
+github_repo: https://visualizela.github.io/dunitzarchivemap
 
 
 # --COPYRIGHT-- (Date generated from last build)
